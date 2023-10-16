@@ -47,7 +47,7 @@ La syntaxe de cette ligne est la suivante :
 3. Sauvegardez et quittez l'éditeur :
 Sauvegardez le fichier et quittez l'éditeur (la façon de faire dépendra de l'éditeur que vous utilisez, par exemple en appuyant sur CTRL + X puis Y et enfin Enter si vous utilisez nano).
 
-4.Vérifiez votre crontab :
+4. Vérifiez votre crontab :
 Vous pouvez vérifier que votre nouvelle tâche est correctement enregistrée en listant toutes vos tâches cron avec la commande suivante :
 ```
 crontab -l
