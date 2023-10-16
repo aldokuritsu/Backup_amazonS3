@@ -49,6 +49,9 @@ Sauvegardez le fichier et quittez l'éditeur (la façon de faire dépendra de l'
 
 4.Vérifiez votre crontab :
 Vous pouvez vérifier que votre nouvelle tâche est correctement enregistrée en listant toutes vos tâches cron avec la commande suivante :
+```
+crontab -l
+```
 
 # Informations complémentaires
 - Les options -h (pour afficher l'aide) et -d (pour spécifier le répertoire à sauvegarder) sont traitées à l'aide de getopts.
