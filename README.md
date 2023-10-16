@@ -1,5 +1,9 @@
-# Scripts-shell
-Quelques scripts shells plus ou moins utiles
+# Description
+Script qui permet de créer une archive d'un dossier et de l'envoyer vers Amazon S3
+
+# Pré-requis
+
+Avoir installé aws-cli sur votre système. + d'infos ici : https://aws.amazon.com/fr/cli/
 
 # Utilisation
 
