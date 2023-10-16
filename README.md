@@ -8,7 +8,8 @@ Rendez le script exécutable avec la commande suivante :
 ```
 chmod +x backup_script.sh
 ```
-Exécutez le script avec l'option -d pour spécifier le répertoire  à sauvegarder :
+Exécutez le script avec l'option -d pour spécifier le répertoire  à sauvegarder.
+
 Exemple : sauvegarder le répertoire "test" présent dans /tmp :
 
 ```
