@@ -25,7 +25,7 @@ Le script archive ensuite le répertoire spécifié et le télécharge dans votr
 
 Notez que le script doit avoir les permissions nécessaires pour lire le contenu du répertoire /tmp/tutos et écrire dans le répertoire où il est exécuté, car il crée temporairement un fichier d'archive avant de le télécharger sur Amazon S3.
 
-Pour automatiser l'envoi du fichier avec une tâche cron, vous devrez suivre les étapes ci-dessous :
+## Pour automatiser l'envoi du fichier avec une tâche cron, vous devrez suivre les étapes ci-dessous :
 
 1. Ouvrez le fichier crontab :
 Ouvrez le fichier crontab pour éditer les tâches programmées en utilisant la commande suivante :
